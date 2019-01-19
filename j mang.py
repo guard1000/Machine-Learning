@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 #아이디와 비밀번호 지정
-USER = "guard1000"
-PASS = "1q2w3e4r!"
+USER = "아이디"
+PASS = "비밀번호"
 
 #세션 시작
 session = requests.session()
